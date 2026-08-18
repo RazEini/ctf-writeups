@@ -19,8 +19,8 @@ This repository contains my personal writeups, exploit scripts, and analysis for
 
 | Category | Challenge | Difficulty | Tech Stack / Concepts | Writeup Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Binary Exploitation** | Picker IV | Medium | Function Pointer Redirection, Symbol Lookup, `pwntools` | [View Writeup](./ctf-writeups/picoCTF/Binary_Exploitation/Picker_IV/) |
-| **Binary Exploitation** | buffer overflow 0 | Easy | Stack Buffer Overflow, Unsafe `gets()`, SIGSEGV Handler | [View Writeup](./ctf-writeups/picoCTF/Binary_Exploitation/buffer_overflow_0/) |
+| **Binary Exploitation** | Picker IV | Medium | Function Pointer Redirection, Symbol Lookup, `pwntools` | [View Writeup](./picoCTF/Binary_Exploitation/Picker_IV/) |
+| **Binary Exploitation** | buffer overflow 0 | Easy | Stack Buffer Overflow, Unsafe `gets()`, SIGSEGV Handler | [View Writeup](./picoCTF/Binary_Exploitation/buffer_overflow_0/) |
 
 ---
 
