@@ -21,6 +21,7 @@ This repository contains my personal writeups, exploit scripts, and analysis for
 | :--- | :--- | :--- | :--- | :--- |
 | **Binary Exploitation** | Picker IV | Medium | Function Pointer Redirection, Symbol Lookup, `pwntools` | [View Writeup](./picoCTF/Binary_Exploitation/Picker_IV/) |
 | **Binary Exploitation** | buffer overflow 0 | Easy | Stack Buffer Overflow, Unsafe `gets()`, SIGSEGV Handler | [View Writeup](./picoCTF/Binary_Exploitation/buffer%20overflow%200/) |
+| **Binary Exploitation** | Local Target | Medium | Stack Variable Overwrite, Offset Analysis, `pwntools` | [View Writeup](./picoCTF/Binary_Exploitation/Local_Target/) |
 
 ---
 
