@@ -8,7 +8,7 @@ The primary objective of these challenges is analyzing compiled binaries (ELF/PE
 
 ## 🛠️ Tools & Analysis Workflow
 
-* **Static Analysis:** `Ghidra`, `IDA Free`, `objdump`, `strings`, `readelf`
+* **Static Analysis:** `Ghidra`, `objdump`, `strings`, `readelf`
 * **Dynamic Analysis & Debugging:** `GDB` with `GEF`, `ltrace`, `strace`
 * **Decompilation & Scripting:** Python 3 (`z3-solver`, `pwntools`), Java Decompilers (`cfr`, `jadx`)
 
