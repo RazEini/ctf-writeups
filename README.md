@@ -20,17 +20,18 @@ This repository contains my personal writeups, exploit scripts, and analysis for
 | Category | Challenge | Difficulty | Tech Stack / Concepts | Writeup Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Binary Exploitation** | Picker IV | Medium | Function Pointer Redirection, Symbol Lookup, `pwntools` | [View Writeup](./picoCTF/Binary_Exploitation/Picker_IV/) |
-| **Binary Exploitation** | buffer overflow 0 | Easy | Stack Buffer Overflow, Unsafe `gets()`, SIGSEGV Handler | [View Writeup](./picoCTF/Binary_Exploitation/buffer%20overflow%200/) |
+| **Binary Exploitation** | Buffer Overflow 0 | Easy | Stack Buffer Overflow, Unsafe `strcpy()`, SIGSEGV Handler, `pwntools` | [View Writeup](./picoCTF/Binary_Exploitation/buffer%20overflow%200/) |
 | **Binary Exploitation** | Local Target | Medium | Stack Variable Overwrite, Offset Analysis, `pwntools` | [View Writeup](./picoCTF/Binary_Exploitation/Local%20Target/) |
-| **Binary Exploitation** | buffer overflow 1 | Medium | Control Flow Hijacking, EIP Overwrite, `pwntools` | [View Writeup](./picoCTF/Binary_Exploitation/buffer%20overflow%201/) |
+| **Binary Exploitation** | Buffer Overflow 1 | Medium | Control Flow Hijacking, 32-bit Architecture, EIP Overwrite, `pwntools` | [View Writeup](./picoCTF/Binary_Exploitation/buffer%20overflow%201/) |
 
 ---
 
 ## 💡 Key Focus Areas
-- Memory corruption vulnerabilities (Buffer Overflow, Format Strings)
-- Bypassing security mitigations (NX, ASLR, Stack Canaries)
-- Reverse engineering x86_64 ELF binaries
-- Writing clean, automated exploits in Python
+- Stack-based memory corruption vulnerabilities (Buffer Overflows, Variable Overwriting)
+- Dynamic memory & stack layout analysis via GDB/GEF (De Bruijn / Pattern Matching)
+- Control flow hijacking & function pointer redirection
+- Reverse engineering 32-bit & 64-bit ELF binaries
+- Writing clean, automated exploits in Python (`pwntools`)
 
 ---
 
