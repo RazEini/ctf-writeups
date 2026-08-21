@@ -9,7 +9,7 @@ This repository contains my personal writeups, exploit scripts, and analysis for
 * **OS:** Ubuntu (WSL2 / Linux)
 * **Debugger:** GDB with [GEF](https://github.com/hugsy/gef) (GDB Enhanced Features)
 * **Exploitation Framework:** Python 3 + [`pwntools`](https://github.com/Gallopsled/pwntools)
-* **Disassemblers:** `objdump`, `nm`, `Ghidra`
+* **Disassemblers:** `objdump`, `Ghidra`
 
 ---
 
