@@ -32,5 +32,5 @@ This repository contains my personal writeups, exploit scripts, and analysis for
 - Reverse engineering x86_64 ELF binaries
 - Writing clean, automated exploits in Python
 
-
+<br><br>
 <p align="center"><strong>👨‍💻 Raz Eini (2026)</strong></p>
