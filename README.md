@@ -34,5 +34,4 @@ This repository contains my personal writeups, exploit scripts, and analysis for
 
 ---
 
-<br><br>
 <p align="center"><strong>👨‍💻 Raz Eini (2026)</strong></p>
