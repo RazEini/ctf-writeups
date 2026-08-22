@@ -1,7 +1,7 @@
 # 🚩 CTF Writeups & Binary Exploitation
 
 ![Status](https://img.shields.io/badge/Status-Work_in_Progress-orange?style=flat-square)
-![Next Platform](https://img.shields.io/badge/Next_Platform-pwn.college_--_Coming_Soon-yellow?style=flat-square)
+![Next Platform](https://img.shields.io/badge/Next_Platform-ROP_Emporium-yellow?style=flat-square)
 
 Welcome to my Cybersecurity & Reverse Engineering repository!  
 This repository contains my personal writeups, exploit scripts, and analysis for various CTF (Capture The Flag) challenges, with a primary focus on **Binary Exploitation (Pwn)** and **Reverse Engineering**.
